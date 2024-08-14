@@ -18,7 +18,7 @@ This repository provides a collection of Jupyter notebooks that demonstrate how 
 | LangChain                   | Mixtral                   | Developed a chatbot that retrieves a summary related to the question from the vector database and generates the answer. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prsdm/rag-recipes/blob/main/LangChain-Mixtral.ipynb) |
 | LangChain                    | llama-2                   | Developed a machine learning expert chatbot (using Q&A dataset) that answers questions related to machine learning only without hallucinating. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prsdm/rag-recipes/blob/main/LangChain-Llama-2.ipynb) |
 
-### Architecture diagram
+### Sample Architecture diagram
 ![diagram](https://github.com/user-attachments/assets/2be3f7f0-fcd3-4d7a-8231-eb8efcb693e7)
 ### Frameworks and Tools that are used:
 #### LangChain
