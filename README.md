@@ -1,4 +1,4 @@
-Updated on 14 August 2024
+Updated on 14th August 2024
 # RAG-Recipes
 <p>
   🤗<a href="https://huggingface.co/prsdm">Hugging Face</a> • 📝<a href="https://medium.com/@prasadmahamulkar">Articles</a>
