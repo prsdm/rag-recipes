@@ -1,8 +1,10 @@
 Updated on 14th August 2024
 # RAG-Recipes
 <p>
-  🤗<a href="https://huggingface.co/prsdm">Hugging Face</a> • 📝<a href="https://medium.com/@prasadmahamulkar">Articles</a>
+  👨🏻‍💻<a href="https://huggingface.co/prsdm">Demo</a> • 📝<a href="https://medium.com/@prasadmahamulkar">Article</a>
 </p>
+
+
 
 Large Language Models (LLMs) demonstrate significant capabilities but sometimes generate incorrect but believable responses when they lack information, and this is known as “hallucination.” It means they confidently provide information that may sound accurate but could be incorrect due to outdated knowledge.
 
