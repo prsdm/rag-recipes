@@ -22,7 +22,7 @@ This repository provides a collection of Jupyter notebooks that demonstrate how 
 
 ### Sample Architecture diagram:
 ![diagram](https://github.com/user-attachments/assets/2be3f7f0-fcd3-4d7a-8231-eb8efcb693e7)
-### Frameworks and Tools that are used:
+### Frameworks and Tools used:
 #### LangChain
 
 LangChain is a framework for building applications with LLMs. It provides abstractions and utilities for creating robust AI applications, such as chatbots, question-answering systems, and knowledge bases. LangChain offers customization options for adjusting the retrieval procedure to suit specific requirements. It generates multiple parallel queries to cover different aspects of the original query and retrieves relevant documents from a vector store.
