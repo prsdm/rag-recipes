@@ -21,7 +21,7 @@ LlamaIndex is a framework for building applications using large language models 
 
 Weaviate is a vector database that allows you to store and query data using semantic search. It provides a scalable and efficient way to manage large amounts of unstructured data, such as text, images, and audio. Weaviate uses machine learning models to encode data into high-dimensional vectors, enabling fast and accurate retrieval of relevant information based on semantic similarity.
 
-
+### Detailed explanation of each notebook:
 | Tool                         | LLMs                      | Description                                                        | Notebooks |
 |------------------------------|---------------------------|--------------------------------------------------------------------|-----------|
 | LangChain & LlamaIndex        | OpenAI                    | Introduction to RAG using LangChain and LlamaIndex.                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prsdm/Large-Language-Models/blob/main/RAG_using_LangChain_and_LlamaIndex.ipynb) |
