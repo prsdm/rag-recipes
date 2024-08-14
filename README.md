@@ -1,8 +1,9 @@
-This repository provides a collection of Jupyter notebooks that demonstrate how to build and experiment with RAG using different frameworks and tools (updated on 14/08/2024).
+(updated on 14/08/2024).
 # RAG-Recipes
 <p>
   🤗<a href="https://huggingface.co/prsdm">Hugging Face</a> • 📝<a href="https://medium.com/@prasadmahamulkar">Articles</a>
 </p>
+This repository provides a collection of Jupyter notebooks that demonstrate how to build and experiment with RAG using different frameworks and tools. 
 
 Large Language Models (LLMs) demonstrate significant capabilities but sometimes generate incorrect but believable responses when they lack information, and this is known as “hallucination.” It means they confidently provide information that may sound accurate but could be incorrect due to outdated knowledge.
 
