@@ -12,7 +12,7 @@ Retrieval-Augmented Generation or RAG framework solves this problem by integrati
 
 This repository provides a collection of Jupyter notebooks that demonstrate how to build and experiment with RAG using different frameworks and tools. 
 
-### Detailed explanation of each notebook:
+### Details of each notebook:
 | Tool                         | LLMs                      | Description                                                        | Notebooks |
 |------------------------------|---------------------------|--------------------------------------------------------------------|-----------|
 | Weaviate & LangChain       | OpenAI                    | Build a question-answer system focused on providing answers related to the Roman Empire using Weaviate, LangChain, and OpenAI.                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prsdm/rag-recipes/blob/main/LangChain-Weaviate-openai.ipynb) |
@@ -20,9 +20,9 @@ This repository provides a collection of Jupyter notebooks that demonstrate how 
 | LangChain                   | Mixtral                   | Developed a chatbot that retrieves a summary related to the question from the vector database and generates the answer. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prsdm/rag-recipes/blob/main/LangChain-Mixtral.ipynb) |
 | LangChain                    | llama-2                   | Developed a machine learning expert chatbot (using Q&A dataset) that answers questions related to machine learning only without hallucinating. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prsdm/rag-recipes/blob/main/LangChain-Llama-2.ipynb) |
 
-### Sample Architecture diagram:
+### Sample architecture diagram:
 ![diagram](https://github.com/user-attachments/assets/2be3f7f0-fcd3-4d7a-8231-eb8efcb693e7)
-### Frameworks and Tools used:
+### Information about frameworks and tools that are used:
 #### LangChain
 
 LangChain is a framework for building applications with LLMs. It provides abstractions and utilities for creating robust AI applications, such as chatbots, question-answering systems, and knowledge bases. LangChain offers customization options for adjusting the retrieval procedure to suit specific requirements. It generates multiple parallel queries to cover different aspects of the original query and retrieves relevant documents from a vector store.
