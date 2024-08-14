@@ -1,5 +1,5 @@
 Updated on 14th August 2024
-# RAG-Recipes
+# RAG Recipes
 <p>
 📝<a href="https://medium.com/@prasadmahamulkar">Article</a> • Demo & Dataset on: 🤗<a href="https://huggingface.co/prsdm">Hugging Face</a> 
 </p>
