@@ -4,11 +4,6 @@ Updated on 14th August 2024
 📝<a href="https://medium.com/@prasadmahamulkar">Article</a> • Demo & Dataset on: 🤗<a href="https://huggingface.co/prsdm">Hugging Face</a> 
 </p>
 
-![new1-ezgif com-crop](https://github.com/user-attachments/assets/2ce90012-8985-48bf-967e-2be1fc87c8dc)
-
-
-
-
 
 Large Language Models (LLMs) demonstrate significant capabilities but sometimes generate incorrect but believable responses when they lack information, and this is known as “hallucination.” It means they confidently provide information that may sound accurate but could be incorrect due to outdated knowledge.
 
